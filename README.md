@@ -3,5 +3,4 @@ First
 
 my first repository
 
-This is Tic Tac Toe Game designed in Java
-the game contains 15x15 grids
+This is Tic Tac Toe Game developed in Java
